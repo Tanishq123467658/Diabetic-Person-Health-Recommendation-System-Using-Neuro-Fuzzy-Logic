@@ -136,6 +136,6 @@ To contribute:
 
 ## Support
 
-For questions, bugs, or feedback, please open an issue or contact **Tanishq** via GitHub.
+For questions, bugs, or feedback, please open an issue or contact me via GitHub.
 
 ---
